@@ -1,0 +1,451 @@
+CBSA,Year,Defining Parameter,AQI
+"Atlanta-Sandy Springs-Roswell, GA",1990,CO,38.333333333333336
+"Atlanta-Sandy Springs-Roswell, GA",1990,NO2,43.767857142857146
+"Atlanta-Sandy Springs-Roswell, GA",1990,Ozone,119.29824561403508
+"Atlanta-Sandy Springs-Roswell, GA",1990,PM10,58.4
+"Atlanta-Sandy Springs-Roswell, GA",1990,SO2,82.9322033898305
+"Atlanta-Sandy Springs-Roswell, GA",1991,CO,44.30769230769231
+"Atlanta-Sandy Springs-Roswell, GA",1991,NO2,44.8
+"Atlanta-Sandy Springs-Roswell, GA",1991,Ozone,84.66483516483517
+"Atlanta-Sandy Springs-Roswell, GA",1991,PM10,48.5
+"Atlanta-Sandy Springs-Roswell, GA",1991,SO2,86.0813953488372
+"Atlanta-Sandy Springs-Roswell, GA",1992,CO,38.5
+"Atlanta-Sandy Springs-Roswell, GA",1992,NO2,44.349514563106794
+"Atlanta-Sandy Springs-Roswell, GA",1992,Ozone,93.39864864864865
+"Atlanta-Sandy Springs-Roswell, GA",1992,SO2,79.47787610619469
+"Atlanta-Sandy Springs-Roswell, GA",1993,CO,41.666666666666664
+"Atlanta-Sandy Springs-Roswell, GA",1993,NO2,40.65
+"Atlanta-Sandy Springs-Roswell, GA",1993,Ozone,103.12682926829268
+"Atlanta-Sandy Springs-Roswell, GA",1993,PM10,33.5
+"Atlanta-Sandy Springs-Roswell, GA",1993,SO2,74.6413043478261
+"Atlanta-Sandy Springs-Roswell, GA",1994,CO,35.78947368421053
+"Atlanta-Sandy Springs-Roswell, GA",1994,NO2,44.7887323943662
+"Atlanta-Sandy Springs-Roswell, GA",1994,Ozone,81.42564102564103
+"Atlanta-Sandy Springs-Roswell, GA",1994,PM10,40.0
+"Atlanta-Sandy Springs-Roswell, GA",1994,SO2,64.35064935064935
+"Atlanta-Sandy Springs-Roswell, GA",1995,CO,36.470588235294116
+"Atlanta-Sandy Springs-Roswell, GA",1995,NO2,42.86666666666667
+"Atlanta-Sandy Springs-Roswell, GA",1995,Ozone,96.92647058823529
+"Atlanta-Sandy Springs-Roswell, GA",1995,PM10,39.4
+"Atlanta-Sandy Springs-Roswell, GA",1995,SO2,63.38709677419355
+"Atlanta-Sandy Springs-Roswell, GA",1996,CO,33.6
+"Atlanta-Sandy Springs-Roswell, GA",1996,NO2,49.6993006993007
+"Atlanta-Sandy Springs-Roswell, GA",1996,Ozone,96.3546511627907
+"Atlanta-Sandy Springs-Roswell, GA",1996,PM10,44.166666666666664
+"Atlanta-Sandy Springs-Roswell, GA",1996,SO2,62.025
+"Atlanta-Sandy Springs-Roswell, GA",1997,CO,32.25
+"Atlanta-Sandy Springs-Roswell, GA",1997,NO2,47.37096774193548
+"Atlanta-Sandy Springs-Roswell, GA",1997,Ozone,98.03614457831326
+"Atlanta-Sandy Springs-Roswell, GA",1997,PM10,47.0
+"Atlanta-Sandy Springs-Roswell, GA",1997,SO2,66.04477611940298
+"Atlanta-Sandy Springs-Roswell, GA",1998,CO,25.0
+"Atlanta-Sandy Springs-Roswell, GA",1998,NO2,42.97520661157025
+"Atlanta-Sandy Springs-Roswell, GA",1998,Ozone,119.7807486631016
+"Atlanta-Sandy Springs-Roswell, GA",1998,PM10,41.857142857142854
+"Atlanta-Sandy Springs-Roswell, GA",1998,SO2,61.2
+"Atlanta-Sandy Springs-Roswell, GA",1999,NO2,61.23809523809524
+"Atlanta-Sandy Springs-Roswell, GA",1999,Ozone,149.9448818897638
+"Atlanta-Sandy Springs-Roswell, GA",1999,PM10,49.0
+"Atlanta-Sandy Springs-Roswell, GA",1999,PM2.5,75.08762886597938
+"Atlanta-Sandy Springs-Roswell, GA",1999,SO2,84.63636363636364
+"Atlanta-Sandy Springs-Roswell, GA",2000,NO2,61.5
+"Atlanta-Sandy Springs-Roswell, GA",2000,Ozone,128.45384615384614
+"Atlanta-Sandy Springs-Roswell, GA",2000,PM2.5,72.29797979797979
+"Atlanta-Sandy Springs-Roswell, GA",2000,SO2,65.8076923076923
+"Atlanta-Sandy Springs-Roswell, GA",2001,NO2,66.72727272727273
+"Atlanta-Sandy Springs-Roswell, GA",2001,Ozone,110.42056074766356
+"Atlanta-Sandy Springs-Roswell, GA",2001,PM10,69.33333333333333
+"Atlanta-Sandy Springs-Roswell, GA",2001,PM2.5,68.94845360824742
+"Atlanta-Sandy Springs-Roswell, GA",2001,SO2,79.5
+"Atlanta-Sandy Springs-Roswell, GA",2002,NO2,63.45
+"Atlanta-Sandy Springs-Roswell, GA",2002,Ozone,121.875
+"Atlanta-Sandy Springs-Roswell, GA",2002,PM2.5,58.82211538461539
+"Atlanta-Sandy Springs-Roswell, GA",2002,SO2,73.8
+"Atlanta-Sandy Springs-Roswell, GA",2003,NO2,54.875
+"Atlanta-Sandy Springs-Roswell, GA",2003,Ozone,108.10752688172043
+"Atlanta-Sandy Springs-Roswell, GA",2003,PM10,70.0
+"Atlanta-Sandy Springs-Roswell, GA",2003,PM2.5,60.95794392523364
+"Atlanta-Sandy Springs-Roswell, GA",2003,SO2,63.40816326530612
+"Atlanta-Sandy Springs-Roswell, GA",2004,NO2,62.125
+"Atlanta-Sandy Springs-Roswell, GA",2004,Ozone,92.81651376146789
+"Atlanta-Sandy Springs-Roswell, GA",2004,PM10,35.0
+"Atlanta-Sandy Springs-Roswell, GA",2004,PM2.5,65.12962962962963
+"Atlanta-Sandy Springs-Roswell, GA",2004,SO2,74.75
+"Atlanta-Sandy Springs-Roswell, GA",2005,NO2,59.09090909090909
+"Atlanta-Sandy Springs-Roswell, GA",2005,Ozone,107.60169491525424
+"Atlanta-Sandy Springs-Roswell, GA",2005,PM2.5,61.801980198019805
+"Atlanta-Sandy Springs-Roswell, GA",2005,SO2,71.29411764705883
+"Atlanta-Sandy Springs-Roswell, GA",2006,NO2,45.0
+"Atlanta-Sandy Springs-Roswell, GA",2006,Ozone,118.99137931034483
+"Atlanta-Sandy Springs-Roswell, GA",2006,PM2.5,65.88151658767772
+"Atlanta-Sandy Springs-Roswell, GA",2006,SO2,74.20689655172414
+"Atlanta-Sandy Springs-Roswell, GA",2007,NO2,45.666666666666664
+"Atlanta-Sandy Springs-Roswell, GA",2007,Ozone,111.0
+"Atlanta-Sandy Springs-Roswell, GA",2007,PM2.5,66.81592039800995
+"Atlanta-Sandy Springs-Roswell, GA",2007,SO2,63.333333333333336
+"Atlanta-Sandy Springs-Roswell, GA",2008,NO2,45.22222222222222
+"Atlanta-Sandy Springs-Roswell, GA",2008,Ozone,99.55263157894737
+"Atlanta-Sandy Springs-Roswell, GA",2008,PM2.5,59.691588785046726
+"Atlanta-Sandy Springs-Roswell, GA",2008,SO2,59.6551724137931
+"Atlanta-Sandy Springs-Roswell, GA",2009,NO2,35.7
+"Atlanta-Sandy Springs-Roswell, GA",2009,Ozone,77.88421052631578
+"Atlanta-Sandy Springs-Roswell, GA",2009,PM2.5,56.093023255813954
+"Atlanta-Sandy Springs-Roswell, GA",2009,SO2,82.0
+"Atlanta-Sandy Springs-Roswell, GA",2010,NO2,38.55555555555556
+"Atlanta-Sandy Springs-Roswell, GA",2010,Ozone,83.53020134228188
+"Atlanta-Sandy Springs-Roswell, GA",2010,PM2.5,56.52450980392157
+"Atlanta-Sandy Springs-Roswell, GA",2010,SO2,51.0
+"Atlanta-Sandy Springs-Roswell, GA",2011,NO2,44.25
+"Atlanta-Sandy Springs-Roswell, GA",2011,Ozone,86.24550898203593
+"Atlanta-Sandy Springs-Roswell, GA",2011,PM2.5,55.010416666666664
+"Atlanta-Sandy Springs-Roswell, GA",2011,SO2,30.0
+"Atlanta-Sandy Springs-Roswell, GA",2012,NO2,38.0
+"Atlanta-Sandy Springs-Roswell, GA",2012,Ozone,77.53521126760563
+"Atlanta-Sandy Springs-Roswell, GA",2012,PM2.5,57.0762331838565
+"Atlanta-Sandy Springs-Roswell, GA",2013,NO2,36.833333333333336
+"Atlanta-Sandy Springs-Roswell, GA",2013,Ozone,60.42372881355932
+"Atlanta-Sandy Springs-Roswell, GA",2013,PM2.5,52.219917012448136
+"Atlanta-Sandy Springs-Roswell, GA",2014,NO2,45.0
+"Atlanta-Sandy Springs-Roswell, GA",2014,Ozone,64.80327868852459
+"Atlanta-Sandy Springs-Roswell, GA",2014,PM2.5,55.31666666666667
+"Atlanta-Sandy Springs-Roswell, GA",2015,NO2,39.75
+"Atlanta-Sandy Springs-Roswell, GA",2015,Ozone,67.26771653543307
+"Atlanta-Sandy Springs-Roswell, GA",2015,PM2.5,53.32051282051282
+"Atlanta-Sandy Springs-Roswell, GA",2016,NO2,43.5
+"Atlanta-Sandy Springs-Roswell, GA",2016,Ozone,72.60130718954248
+"Atlanta-Sandy Springs-Roswell, GA",2016,PM2.5,55.720379146919434
+"Atlanta-Sandy Springs-Roswell, GA",2017,NO2,42.3125
+"Atlanta-Sandy Springs-Roswell, GA",2017,Ozone,58.339506172839506
+"Atlanta-Sandy Springs-Roswell, GA",2017,PM2.5,52.25668449197861
+"Austin-Round Rock, TX",1990,CO,45.86666666666667
+"Austin-Round Rock, TX",1990,NO2,40.120879120879124
+"Austin-Round Rock, TX",1990,Ozone,47.251937984496124
+"Austin-Round Rock, TX",1990,PM10,16.0
+"Austin-Round Rock, TX",1991,CO,31.142857142857142
+"Austin-Round Rock, TX",1991,NO2,37.6063829787234
+"Austin-Round Rock, TX",1991,Ozone,48.65098039215686
+"Austin-Round Rock, TX",1991,PM10,34.44444444444444
+"Austin-Round Rock, TX",1992,CO,32.166666666666664
+"Austin-Round Rock, TX",1992,NO2,40.7536231884058
+"Austin-Round Rock, TX",1992,Ozone,47.408088235294116
+"Austin-Round Rock, TX",1992,PM10,36.166666666666664
+"Austin-Round Rock, TX",1993,CO,28.0
+"Austin-Round Rock, TX",1993,NO2,35.888888888888886
+"Austin-Round Rock, TX",1993,Ozone,43.1044776119403
+"Austin-Round Rock, TX",1993,PM10,39.285714285714285
+"Austin-Round Rock, TX",1994,CO,46.407407407407405
+"Austin-Round Rock, TX",1994,NO2,38.28089887640449
+"Austin-Round Rock, TX",1994,Ozone,51.573170731707314
+"Austin-Round Rock, TX",1994,PM10,36.0
+"Austin-Round Rock, TX",1995,CO,36.0
+"Austin-Round Rock, TX",1995,NO2,39.91304347826087
+"Austin-Round Rock, TX",1995,Ozone,62.46694214876033
+"Austin-Round Rock, TX",1995,PM10,29.8
+"Austin-Round Rock, TX",1996,CO,22.0
+"Austin-Round Rock, TX",1996,NO2,38.40601503759399
+"Austin-Round Rock, TX",1996,Ozone,42.43478260869565
+"Austin-Round Rock, TX",1996,PM10,16.0
+"Austin-Round Rock, TX",1997,CO,8.0
+"Austin-Round Rock, TX",1997,NO2,25.272727272727273
+"Austin-Round Rock, TX",1997,Ozone,45.54261363636363
+"Austin-Round Rock, TX",1998,NO2,20.785714285714285
+"Austin-Round Rock, TX",1998,Ozone,46.76638176638177
+"Austin-Round Rock, TX",1999,NO2,39.666666666666664
+"Austin-Round Rock, TX",1999,Ozone,60.21086261980831
+"Austin-Round Rock, TX",1999,PM2.5,49.12244897959184
+"Austin-Round Rock, TX",2000,NO2,41.6
+"Austin-Round Rock, TX",2000,Ozone,69.45695364238411
+"Austin-Round Rock, TX",2000,PM2.5,51.26190476190476
+"Austin-Round Rock, TX",2001,Ozone,53.51807228915663
+"Austin-Round Rock, TX",2001,PM2.5,49.84422110552764
+"Austin-Round Rock, TX",2002,NO2,39.0
+"Austin-Round Rock, TX",2002,Ozone,57.92857142857143
+"Austin-Round Rock, TX",2002,PM2.5,49.32057416267943
+"Austin-Round Rock, TX",2003,NO2,26.0
+"Austin-Round Rock, TX",2003,Ozone,52.663120567375884
+"Austin-Round Rock, TX",2003,PM10,45.0
+"Austin-Round Rock, TX",2003,PM2.5,50.88732394366197
+"Austin-Round Rock, TX",2004,NO2,24.357142857142858
+"Austin-Round Rock, TX",2004,Ozone,43.27065527065527
+"Austin-Round Rock, TX",2004,PM10,47.0
+"Austin-Round Rock, TX",2005,NO2,35.833333333333336
+"Austin-Round Rock, TX",2005,Ozone,60.35353535353536
+"Austin-Round Rock, TX",2005,PM2.5,45.88198757763975
+"Austin-Round Rock, TX",2006,NO2,53.75
+"Austin-Round Rock, TX",2006,Ozone,58.57142857142857
+"Austin-Round Rock, TX",2006,PM2.5,49.78048780487805
+"Austin-Round Rock, TX",2007,Ozone,48.32820512820513
+"Austin-Round Rock, TX",2007,PM2.5,45.95882352941177
+"Austin-Round Rock, TX",2008,NO2,30.0
+"Austin-Round Rock, TX",2008,Ozone,50.68292682926829
+"Austin-Round Rock, TX",2008,PM2.5,48.26875
+"Austin-Round Rock, TX",2009,Ozone,46.86697247706422
+"Austin-Round Rock, TX",2009,PM10,31.5
+"Austin-Round Rock, TX",2009,PM2.5,49.06896551724138
+"Austin-Round Rock, TX",2010,Ozone,46.0
+"Austin-Round Rock, TX",2010,PM2.5,46.10294117647059
+"Austin-Round Rock, TX",2011,NO2,25.5
+"Austin-Round Rock, TX",2011,Ozone,53.31196581196581
+"Austin-Round Rock, TX",2011,PM2.5,50.565891472868216
+"Austin-Round Rock, TX",2012,NO2,37.333333333333336
+"Austin-Round Rock, TX",2012,Ozone,48.93617021276596
+"Austin-Round Rock, TX",2012,PM2.5,47.5390625
+"Austin-Round Rock, TX",2013,NO2,25.0
+"Austin-Round Rock, TX",2013,Ozone,46.520930232558136
+"Austin-Round Rock, TX",2013,PM2.5,48.13422818791946
+"Austin-Round Rock, TX",2014,NO2,35.0
+"Austin-Round Rock, TX",2014,Ozone,43.569148936170215
+"Austin-Round Rock, TX",2014,PM10,73.0
+"Austin-Round Rock, TX",2014,PM2.5,49.81707317073171
+"Austin-Round Rock, TX",2015,NO2,38.07142857142857
+"Austin-Round Rock, TX",2015,Ozone,49.786802030456855
+"Austin-Round Rock, TX",2015,PM2.5,47.128571428571426
+"Austin-Round Rock, TX",2016,NO2,37.05555555555556
+"Austin-Round Rock, TX",2016,Ozone,42.83111111111111
+"Austin-Round Rock, TX",2016,PM10,59.0
+"Austin-Round Rock, TX",2016,PM2.5,46.868852459016395
+"Austin-Round Rock, TX",2017,NO2,38.166666666666664
+"Austin-Round Rock, TX",2017,Ozone,44.983870967741936
+"Austin-Round Rock, TX",2017,PM2.5,47.96894409937888
+"Dallas-Fort Worth-Arlington, TX",1990,CO,42.4375
+"Dallas-Fort Worth-Arlington, TX",1990,NO2,44.84
+"Dallas-Fort Worth-Arlington, TX",1990,Ozone,77.69098712446352
+"Dallas-Fort Worth-Arlington, TX",1990,PM10,43.76190476190476
+"Dallas-Fort Worth-Arlington, TX",1990,SO2,43.3
+"Dallas-Fort Worth-Arlington, TX",1991,CO,36.166666666666664
+"Dallas-Fort Worth-Arlington, TX",1991,NO2,44.945945945945944
+"Dallas-Fort Worth-Arlington, TX",1991,Ozone,75.2970711297071
+"Dallas-Fort Worth-Arlington, TX",1991,PM10,53.285714285714285
+"Dallas-Fort Worth-Arlington, TX",1991,SO2,42.5
+"Dallas-Fort Worth-Arlington, TX",1992,CO,47.714285714285715
+"Dallas-Fort Worth-Arlington, TX",1992,NO2,42.972477064220186
+"Dallas-Fort Worth-Arlington, TX",1992,Ozone,70.78297872340426
+"Dallas-Fort Worth-Arlington, TX",1992,PM10,50.857142857142854
+"Dallas-Fort Worth-Arlington, TX",1992,SO2,29.0
+"Dallas-Fort Worth-Arlington, TX",1993,CO,34.214285714285715
+"Dallas-Fort Worth-Arlington, TX",1993,NO2,40.932038834951456
+"Dallas-Fort Worth-Arlington, TX",1993,Ozone,65.72103004291846
+"Dallas-Fort Worth-Arlington, TX",1993,PM10,45.6
+"Dallas-Fort Worth-Arlington, TX",1994,CO,41.285714285714285
+"Dallas-Fort Worth-Arlington, TX",1994,NO2,41.6375
+"Dallas-Fort Worth-Arlington, TX",1994,Ozone,81.68076923076923
+"Dallas-Fort Worth-Arlington, TX",1994,PM10,52.0
+"Dallas-Fort Worth-Arlington, TX",1994,SO2,36.0
+"Dallas-Fort Worth-Arlington, TX",1995,CO,69.0
+"Dallas-Fort Worth-Arlington, TX",1995,NO2,44.54929577464789
+"Dallas-Fort Worth-Arlington, TX",1995,Ozone,91.60538116591928
+"Dallas-Fort Worth-Arlington, TX",1995,PM10,53.2
+"Dallas-Fort Worth-Arlington, TX",1995,SO2,72.26153846153846
+"Dallas-Fort Worth-Arlington, TX",1996,CO,33.5
+"Dallas-Fort Worth-Arlington, TX",1996,NO2,44.58974358974359
+"Dallas-Fort Worth-Arlington, TX",1996,Ozone,85.88775510204081
+"Dallas-Fort Worth-Arlington, TX",1996,PM10,56.05882352941177
+"Dallas-Fort Worth-Arlington, TX",1996,SO2,78.79452054794521
+"Dallas-Fort Worth-Arlington, TX",1997,CO,52.0
+"Dallas-Fort Worth-Arlington, TX",1997,NO2,40.723684210526315
+"Dallas-Fort Worth-Arlington, TX",1997,Ozone,83.04803493449782
+"Dallas-Fort Worth-Arlington, TX",1997,PM10,67.55555555555556
+"Dallas-Fort Worth-Arlington, TX",1997,SO2,72.36
+"Dallas-Fort Worth-Arlington, TX",1998,NO2,39.2183908045977
+"Dallas-Fort Worth-Arlington, TX",1998,Ozone,97.87064676616916
+"Dallas-Fort Worth-Arlington, TX",1998,PM10,48.9
+"Dallas-Fort Worth-Arlington, TX",1998,SO2,75.25373134328358
+"Dallas-Fort Worth-Arlington, TX",1999,NO2,48.280701754385966
+"Dallas-Fort Worth-Arlington, TX",1999,Ozone,107.73684210526316
+"Dallas-Fort Worth-Arlington, TX",1999,PM10,55.0
+"Dallas-Fort Worth-Arlington, TX",1999,PM2.5,60.32835820895522
+"Dallas-Fort Worth-Arlington, TX",1999,SO2,85.18181818181819
+"Dallas-Fort Worth-Arlington, TX",2000,NO2,45.8
+"Dallas-Fort Worth-Arlington, TX",2000,Ozone,115.12295081967213
+"Dallas-Fort Worth-Arlington, TX",2000,PM10,44.0
+"Dallas-Fort Worth-Arlington, TX",2000,PM2.5,59.04201680672269
+"Dallas-Fort Worth-Arlington, TX",2000,SO2,95.68518518518519
+"Dallas-Fort Worth-Arlington, TX",2001,NO2,46.25
+"Dallas-Fort Worth-Arlington, TX",2001,Ozone,98.8258064516129
+"Dallas-Fort Worth-Arlington, TX",2001,PM2.5,59.96
+"Dallas-Fort Worth-Arlington, TX",2001,SO2,89.87671232876713
+"Dallas-Fort Worth-Arlington, TX",2002,NO2,46.04545454545455
+"Dallas-Fort Worth-Arlington, TX",2002,Ozone,95.7125
+"Dallas-Fort Worth-Arlington, TX",2002,PM10,52.0
+"Dallas-Fort Worth-Arlington, TX",2002,PM2.5,56.664556962025316
+"Dallas-Fort Worth-Arlington, TX",2002,SO2,66.875
+"Dallas-Fort Worth-Arlington, TX",2003,NO2,47.30434782608695
+"Dallas-Fort Worth-Arlington, TX",2003,Ozone,95.50299401197604
+"Dallas-Fort Worth-Arlington, TX",2003,PM10,48.5
+"Dallas-Fort Worth-Arlington, TX",2003,PM2.5,60.446666666666665
+"Dallas-Fort Worth-Arlington, TX",2003,SO2,78.78260869565217
+"Dallas-Fort Worth-Arlington, TX",2004,NO2,42.266666666666666
+"Dallas-Fort Worth-Arlington, TX",2004,Ozone,87.5609756097561
+"Dallas-Fort Worth-Arlington, TX",2004,PM2.5,54.45238095238095
+"Dallas-Fort Worth-Arlington, TX",2004,SO2,60.63157894736842
+"Dallas-Fort Worth-Arlington, TX",2005,NO2,42.166666666666664
+"Dallas-Fort Worth-Arlington, TX",2005,Ozone,106.36363636363636
+"Dallas-Fort Worth-Arlington, TX",2005,PM2.5,56.260162601626014
+"Dallas-Fort Worth-Arlington, TX",2005,SO2,76.23728813559322
+"Dallas-Fort Worth-Arlington, TX",2006,NO2,43.65714285714286
+"Dallas-Fort Worth-Arlington, TX",2006,Ozone,91.89944134078212
+"Dallas-Fort Worth-Arlington, TX",2006,PM2.5,56.82178217821782
+"Dallas-Fort Worth-Arlington, TX",2006,SO2,72.06
+"Dallas-Fort Worth-Arlington, TX",2007,NO2,48.266666666666666
+"Dallas-Fort Worth-Arlington, TX",2007,Ozone,79.59210526315789
+"Dallas-Fort Worth-Arlington, TX",2007,PM2.5,53.473684210526315
+"Dallas-Fort Worth-Arlington, TX",2007,SO2,76.0
+"Dallas-Fort Worth-Arlington, TX",2008,NO2,42.67567567567568
+"Dallas-Fort Worth-Arlington, TX",2008,Ozone,77.53142857142858
+"Dallas-Fort Worth-Arlington, TX",2008,PM2.5,58.2
+"Dallas-Fort Worth-Arlington, TX",2008,SO2,67.44444444444444
+"Dallas-Fort Worth-Arlington, TX",2009,NO2,43.21875
+"Dallas-Fort Worth-Arlington, TX",2009,Ozone,76.5
+"Dallas-Fort Worth-Arlington, TX",2009,PM10,50.5
+"Dallas-Fort Worth-Arlington, TX",2009,PM2.5,52.22377622377623
+"Dallas-Fort Worth-Arlington, TX",2010,NO2,44.869565217391305
+"Dallas-Fort Worth-Arlington, TX",2010,Ozone,66.81865284974093
+"Dallas-Fort Worth-Arlington, TX",2010,PM10,54.0
+"Dallas-Fort Worth-Arlington, TX",2010,PM2.5,52.9054054054054
+"Dallas-Fort Worth-Arlington, TX",2011,NO2,41.041666666666664
+"Dallas-Fort Worth-Arlington, TX",2011,Ozone,83.26960784313725
+"Dallas-Fort Worth-Arlington, TX",2011,PM10,64.5
+"Dallas-Fort Worth-Arlington, TX",2011,PM2.5,56.67910447761194
+"Dallas-Fort Worth-Arlington, TX",2011,SO2,67.0
+"Dallas-Fort Worth-Arlington, TX",2012,NO2,40.61538461538461
+"Dallas-Fort Worth-Arlington, TX",2012,Ozone,79.0204081632653
+"Dallas-Fort Worth-Arlington, TX",2012,PM2.5,55.36305732484077
+"Dallas-Fort Worth-Arlington, TX",2013,NO2,42.55555555555556
+"Dallas-Fort Worth-Arlington, TX",2013,Ozone,75.04395604395604
+"Dallas-Fort Worth-Arlington, TX",2013,PM10,58.2
+"Dallas-Fort Worth-Arlington, TX",2013,PM2.5,56.562130177514796
+"Dallas-Fort Worth-Arlington, TX",2014,NO2,40.095238095238095
+"Dallas-Fort Worth-Arlington, TX",2014,Ozone,62.64824120603015
+"Dallas-Fort Worth-Arlington, TX",2014,PM10,71.33333333333333
+"Dallas-Fort Worth-Arlington, TX",2014,PM2.5,54.1063829787234
+"Dallas-Fort Worth-Arlington, TX",2014,SO2,102.0
+"Dallas-Fort Worth-Arlington, TX",2015,NO2,39.666666666666664
+"Dallas-Fort Worth-Arlington, TX",2015,Ozone,64.69333333333333
+"Dallas-Fort Worth-Arlington, TX",2015,PM2.5,51.496
+"Dallas-Fort Worth-Arlington, TX",2016,NO2,44.5
+"Dallas-Fort Worth-Arlington, TX",2016,Ozone,56.71900826446281
+"Dallas-Fort Worth-Arlington, TX",2016,PM10,48.0
+"Dallas-Fort Worth-Arlington, TX",2016,PM2.5,49.765765765765764
+"Dallas-Fort Worth-Arlington, TX",2017,NO2,40.266666666666666
+"Dallas-Fort Worth-Arlington, TX",2017,Ozone,62.10526315789474
+"Dallas-Fort Worth-Arlington, TX",2017,PM2.5,50.148936170212764
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1990,CO,61.1764705882353
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1990,NO2,58.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1990,Ozone,110.38297872340425
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1990,PM10,45.72727272727273
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1990,SO2,112.62447257383967
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1991,CO,43.714285714285715
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1991,NO2,40.333333333333336
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1991,Ozone,91.32038834951456
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1991,PM10,47.35
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1991,SO2,106.58108108108108
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1992,CO,42.51724137931034
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1992,NO2,44.464285714285715
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1992,Ozone,75.1826923076923
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1992,PM10,40.90909090909091
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1992,SO2,99.4020618556701
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1993,CO,44.325581395348834
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1993,NO2,36.666666666666664
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1993,Ozone,95.59821428571429
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1993,PM10,47.63636363636363
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1993,SO2,105.17368421052632
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1994,CO,49.75
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1994,NO2,46.5
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1994,Ozone,98.47222222222223
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1994,PM10,39.2
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1994,SO2,96.81770833333333
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1995,CO,42.1764705882353
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1995,NO2,44.8125
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1995,Ozone,88.52475247524752
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1995,PM10,42.166666666666664
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1995,SO2,82.2741935483871
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1996,CO,32.208333333333336
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1996,NO2,50.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1996,Ozone,80.45989304812834
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1996,PM10,37.57142857142857
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1996,SO2,96.1094890510949
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1997,CO,37.04347826086956
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1997,NO2,38.54545454545455
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1997,Ozone,79.03482587064677
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1997,PM10,38.92307692307692
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1997,SO2,100.32075471698113
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1998,CO,38.666666666666664
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1998,NO2,40.38095238095238
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1998,Ozone,92.67525773195877
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1998,PM10,40.72727272727273
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1998,SO2,74.9381443298969
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1999,CO,45.69230769230769
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1999,NO2,65.38095238095238
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1999,Ozone,111.61748633879782
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1999,PM10,48.5
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1999,PM2.5,69.11111111111111
+"Nashville-Davidson--Murfreesboro--Franklin, TN",1999,SO2,93.93846153846154
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2000,CO,38.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2000,NO2,28.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2000,Ozone,102.98518518518519
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2000,PM2.5,61.475903614457835
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2000,SO2,89.58333333333333
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2001,CO,47.666666666666664
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2001,NO2,30.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2001,Ozone,84.62595419847328
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2001,PM2.5,59.193548387096776
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2001,SO2,80.36585365853658
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2002,CO,50.5
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2002,NO2,67.5
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2002,Ozone,91.61068702290076
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2002,PM2.5,53.92462311557789
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2002,SO2,64.24
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2003,CO,35.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2003,NO2,51.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2003,Ozone,85.39837398373983
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2003,PM2.5,55.255319148936174
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2003,SO2,52.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2004,CO,27.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2004,NO2,27.166666666666668
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2004,Ozone,67.37209302325581
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2004,PM2.5,55.873303167420815
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2004,SO2,63.333333333333336
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2005,CO,16.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2005,NO2,38.666666666666664
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2005,Ozone,88.13934426229508
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2005,PM2.5,60.22127659574468
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2005,SO2,65.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2006,NO2,34.833333333333336
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2006,Ozone,84.921875
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2006,PM2.5,56.782222222222224
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2007,NO2,34.38461538461539
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2007,Ozone,93.16993464052288
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2007,PM2.5,54.78238341968912
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2007,SO2,67.83333333333333
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2008,NO2,30.166666666666668
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2008,Ozone,72.20979020979021
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2008,PM2.5,50.55450236966825
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2009,NO2,31.076923076923077
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2009,Ozone,56.12396694214876
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2009,PM2.5,47.56277056277056
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2010,NO2,33.44444444444444
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2010,Ozone,71.08928571428571
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2010,PM2.5,47.78191489361702
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2011,NO2,31.307692307692307
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2011,Ozone,67.10344827586206
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2011,PM2.5,45.442424242424245
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2012,NO2,33.125
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2012,Ozone,69.73529411764706
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2012,PM2.5,44.723404255319146
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2013,NO2,25.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2013,Ozone,49.666666666666664
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2013,PM2.5,46.032710280373834
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2014,NO2,32.80952380952381
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2014,Ozone,53.903225806451616
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2014,PM2.5,47.62100456621005
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2014,SO2,119.0
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2015,NO2,38.189189189189186
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2015,Ozone,51.92372881355932
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2015,PM2.5,46.55238095238095
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2016,NO2,36.78048780487805
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2016,Ozone,53.3312101910828
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2016,PM2.5,45.773809523809526
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2017,NO2,38.44444444444444
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2017,Ozone,49.213235294117645
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2017,PM2.5,45.91387559808612
+"Nashville-Davidson--Murfreesboro--Franklin, TN",2017,SO2,60.0
